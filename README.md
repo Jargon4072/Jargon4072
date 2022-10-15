@@ -1,9 +1,12 @@
+# Chandan Dwivedi
 - 👋 Hi, I’m Chandan Dwivedi
 - 👀 I’m interested in Artifical Intelligence and Machine Learning
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on ML,Deep Learning, Neural Networks
-- 📫 How to reach me: chandand2507@gmail.com
+
 <p>
+Need to contact me? Find me here:
+
 <a href="mailto:chandand2507@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
   <a href="https://instagram.com/thisis_cdwivedi"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://discord.gg/CTzdeNQw3c"><img src="https://img.shields.io/badge/Discord-9146FF.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -16,8 +19,8 @@
 Jargon4072/Jargon4072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+---
 ### Languages and Tools
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -47,5 +50,19 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 
+</br>
+</br>
+</br>
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jargon4072&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
