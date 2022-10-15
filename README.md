@@ -3,6 +3,14 @@
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on ML,Deep Learning, Neural Networks
 - 📫 How to reach me: chandand2507@gmail.com
+<p>
+<a href="mailto:chandand2507@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+  <a href="https://instagram.com/thisis_cdwivedi"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.gg/CTzdeNQw3c"><img src="https://img.shields.io/badge/Discord-9146FF.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chandan-dwivedi-871310111/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</p>
+
 
 <!---
 Jargon4072/Jargon4072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
