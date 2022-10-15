@@ -75,6 +75,9 @@ You can click the Preview link to take a look at your changes.
 ### 📊 Stats
 
 ![Chandan Dwivedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jargon4072&show_icons=true&theme=gruvbox)
+<span style="display:inline-block; width: 10px;"></span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jargon4072&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true)
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
