@@ -1,4 +1,5 @@
 #  🥷🏻Chandan Dwivedi
+<img align="right" alt="GIF" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif?raw=true" width="400" height="300" />
 
 **`AI Engineer`**
 
