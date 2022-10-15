@@ -1,5 +1,5 @@
 #  🥷🏻Chandan Dwivedi
-<img align="right" alt="GIF" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="370" height="270" />
 
 **`AI Engineer`**
 
