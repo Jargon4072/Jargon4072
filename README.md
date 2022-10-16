@@ -1,5 +1,5 @@
 #  🥷🏻Chandan Dwivedi
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="370" height="270" />
+<img align="right" alt="GIF" src="./programmer.gif?raw=true" width="370" height="270" />
 
 **`AI Engineer`**
 
