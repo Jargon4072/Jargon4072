@@ -91,3 +91,6 @@ You can click the Preview link to take a look at your changes.
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+![Visitor Count](https://profile-counter.glitch.me/Jargon4072/count.svg)
+
+
