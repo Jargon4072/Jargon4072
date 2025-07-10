@@ -67,11 +67,11 @@ You can click the Preview link to take a look at your changes.
 ### 📠 My Latest Blogs:
 <!---
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@c_dwivedi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@c_dwivedi/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@c_dwivedi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@c_dwivedi/1" alt="Recent Article 0"> 
+ 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@c_dwivedi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@c_dwivedi/1" alt="Recent Article 1">  
 --->
 
 ![Chandan's blog](https://github-read-medium.vercel.app/latest?username=c_dwivedi&limit=6)
-
 
 #
 
